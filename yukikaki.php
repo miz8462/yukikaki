@@ -36,7 +36,7 @@ EOT;
         mysqli_query($link, $sql);
 
         echo '登録が完了しました' . PHP_EOL . PHP_EOL;
-
+        echo 'doskoi';
 
         // return [
         //     'date' => $today,
